@@ -1,0 +1,15 @@
+SSID:			eduroam
+Protocol:		Wi-Fi 4 (802.11n)
+Security type:		WPA2-Enterprise
+Type of sign-in info:	Microsoft: Protected EAP (PEAP)
+Network band:		2.4 GHz
+Network channel:	11
+Link speed (Receive/Transmit):	72/72 (Mbps)
+Link-local IPv6 address:	fe80::1905:f5a5:27b:21ee%21
+IPv4 address:		10.7.208.211
+IPv4 DNS servers:	10.250.64.73
+Primary DNS suffix:	nust.edu.pk
+Manufacturer:		Realtek Semiconductor Corp.
+Description:	Realtek RTL8723BE 802.11 bgn Wi-Fi Adapter
+Driver version:	2024.0.4.208
+Physical address (MAC):	A8-A7-95-3E-C0-CB
