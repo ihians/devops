@@ -13,3 +13,4 @@ Manufacturer:		Realtek Semiconductor Corp.
 Description:	Realtek RTL8723BE 802.11 bgn Wi-Fi Adapter
 Driver version:	2024.0.4.208
 Physical address (MAC):	A8-A7-95-3E-C0-CB
+Test
